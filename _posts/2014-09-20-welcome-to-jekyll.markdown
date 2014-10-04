@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to lca.jumpingcrab.com!"
 date:   2014-09-20 13:46:49
 categories: jekyll update
 ---
